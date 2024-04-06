@@ -6,3 +6,5 @@ Lorem ipsum 123
 
 1. Numbered List
 2. Two
+
+![](picture.png)
